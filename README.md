@@ -16,7 +16,7 @@ I am Abhishek, a third-year Biomedical Engineering undergrad at IIT Hyderabad wi
 
 ### Bio-Inspired Stochastic Convolution Neural Network
 
-### Analyzing and Modelling  Investment Scenarios for ASEAN Countries
+### Analyzing and Modeling  Investment Scenarios for ASEAN Countries
 
 
 ## GitHub Stats
