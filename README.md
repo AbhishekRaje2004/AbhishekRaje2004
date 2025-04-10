@@ -5,7 +5,7 @@ I am Abhishek, a third-year Biomedical Engineering undergrad at IIT Hyderabad wi
 ##  Interests
 - Mathematical modeling of biological systems
 - Stochastic simulations
-- Signal processing & analysis
+- Signal  & Image Processing
 - Neuromorphic algorithms
 - Computational oncology
 
