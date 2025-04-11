@@ -24,10 +24,10 @@ I am Abhishek, a third-year Biomedical Engineering undergrad at IIT Hyderabad wi
 
 
 ### Analyzing and Modeling  Investment Scenarios for ASEAN Countries
-- Implemented a statistical model using Python-based libraries for time series forecasting.
-   Appropriate regression models were built to ensure statistical significance and data fit.
-– Performed numerical optimization using an iterative algorithm for cost-benefit and investment modeling for
- policy decisions modeling for ASEAN countries
+- Implemented a statistical model using Python-based libraries for time series forecasting. Appropriate regression models were built to
+  ensure statistical significance and data fit.
+- Performed numerical optimization using an iterative algorithm for cost-benefit and investment modeling for Policy decisions modeling for ASEAN countries
+
 
 
 
