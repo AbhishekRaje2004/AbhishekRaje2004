@@ -10,11 +10,6 @@ I am Abhishek, a third-year Biomedical Engineering undergrad at IIT Hyderabad wi
 - Computational oncology
 
 
-
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhishekRaje2004&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekRaje2004&layout=compact&theme=radical)
-
 ##  Contact Me
 - Email: rajeabhishek920@gmail.com
 - LinkedIn: [Abhishek Raje](https://www.linkedin.com/in/abhishek-raje-309ba4252/)
